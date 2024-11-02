@@ -1,2 +1,2 @@
-# Mini_Kraken2
-Mini-kraken script for metagenomic analyses
+# Kraken2
+Mini-kraken and Kraken2 script for metagenomic analyses
