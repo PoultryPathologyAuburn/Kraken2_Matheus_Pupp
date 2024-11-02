@@ -1,5 +1,4 @@
-# Kraken2
-Mini-kraken and Kraken2 script for metagenomic analyses
+Mini-kraken and Kraken2 script for metagenomic analyses.
 
 # Kraken2 github page
 https://github.com/DerrickWood/kraken2
